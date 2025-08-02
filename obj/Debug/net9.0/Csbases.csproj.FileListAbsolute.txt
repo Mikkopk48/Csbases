@@ -12,3 +12,4 @@
 /Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.pdb
 /Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.genruntimeconfig.cache
 /Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/ref/Csbases.dll
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.sourcelink.json
