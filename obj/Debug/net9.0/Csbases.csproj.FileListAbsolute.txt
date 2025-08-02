@@ -1,0 +1,14 @@
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/bin/Debug/net9.0/Csbases
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/bin/Debug/net9.0/Csbases.deps.json
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/bin/Debug/net9.0/Csbases.runtimeconfig.json
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/bin/Debug/net9.0/Csbases.dll
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/bin/Debug/net9.0/Csbases.pdb
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.AssemblyInfoInputs.cache
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.AssemblyInfo.cs
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.csproj.CoreCompileInputs.cache
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.dll
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/refint/Csbases.dll
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.pdb
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/Csbases.genruntimeconfig.cache
+/Users/mikkopiaggio/Desktop/C# proyects/DotNET/Csbases/obj/Debug/net9.0/ref/Csbases.dll
