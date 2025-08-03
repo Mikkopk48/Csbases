@@ -2,8 +2,12 @@ using static System.Console;
 
 public class Product : IProduct
 {
+
     public int Id { get; set; }
+    [UpperCase]
     public string? Name { get; set; }
+    [UpperCase]
+    public string? Desciption { get; set; }
     public decimal Price { get; set; }
     public bool IsAvaible { get; set; }
     public DateTime CreatedAt { get; set; }
